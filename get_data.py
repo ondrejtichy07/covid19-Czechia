@@ -13,17 +13,17 @@ o_testy = requests.get(html_osoby).content
 p_testy = requests.get(html_pomucky).content
 n_testy = requests.get(html_nakazeni).content
 
-with open('data/testy.csv','wb') as f:
+with open('/home/pi/Desktop/py/ipynb/data/testy.csv','wb') as f:
     f.write(t_testy)
 
-with open('data/nakaza.csv','wb') as f:
+with open('/home/pi/Desktop/py/ipynb/data/nakaza.csv','wb') as f:
     f.write(n_testy)
 
-with open('data/osoby.csv','wb') as f:
+with open('/home/pi/Desktop/py/ipynb/data/osoby.csv','wb') as f:
     f.write(o_testy)
 
-with open('data/pomucky.csv','wb') as f:
+with open('/home/pi/Desktop/py/ipynb/data/pomucky.csv','wb') as f:
     f.write(p_testy)
 
-with open('data/nakazeni.csv','wb') as f:
+with open('/home/pi/Desktop/py/ipynb/data/nakazeni.csv','wb') as f:
     f.write(n_testy)
