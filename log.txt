@@ -42,3 +42,4 @@ St čen  3 12:08:01 CEST 2020
 Ne lis  1 12:08:01 CET 2020
 Po lis  2 12:08:01 CET 2020
 Út lis  3 12:08:01 CET 2020
+St lis  4 12:08:01 CET 2020
