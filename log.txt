@@ -46,3 +46,4 @@ St lis  4 12:08:01 CET 2020
 Čt lis  5 12:08:01 CET 2020
 Pá lis  6 12:08:01 CET 2020
 So lis  7 12:08:01 CET 2020
+Ne lis  8 12:08:01 CET 2020
